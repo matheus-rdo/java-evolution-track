@@ -4,3 +4,4 @@
 
 Interfaces  
 - Static Methods
+- Default Methods
