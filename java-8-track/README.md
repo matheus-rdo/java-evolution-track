@@ -6,3 +6,6 @@ Interfaces
 - Static Methods
 - Default Methods
 - Functional Interface (with Lambda Expression)
+
+Stream
+- Parallel Stream
